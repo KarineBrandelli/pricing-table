@@ -1,11 +1,28 @@
-/* header card{
-    background-color: #ffcc29;
-} */
-
 body {
     font-family: 'Open Sans', sans-serif;
+}
+
+.bg-info {
+    background-color: #1d539e!important;
+}
+
+.bg-warning {
+    background-color: #ffcc29 !important;
 }
 
 .main-content {
     margin-top: -15rem;
 }
+
+.my-2, .btn, .title {
+    font-weight: 700;
+}
+
+.bi {
+    color: rgb(32, 207, 32);
+    font-size: 1.75rem;
+}
+
+
+
+
