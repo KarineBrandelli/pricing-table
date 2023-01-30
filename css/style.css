@@ -1,24 +1,19 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .bg-info {
-    background-color: #1d539e!important;
+  background-color: #1d539e !important;
 }
 
 .bg-warning {
-    background-color: #ffcc29 !important;
+  background-color: #ffcc29 !important;
 }
 
 .main-content {
-    margin-top: -17.5rem;
-}
-
-.my-2, .btn, .title {
-    font-weight: 700;
+  margin-top: -17.5rem;
 }
 
 .bi {
-    color: rgb(32, 207, 32);
-    font-size: 1.75rem;
+  color: rgb(32, 207, 32);
 }
