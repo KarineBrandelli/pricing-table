@@ -7,7 +7,7 @@
 ------
 ## Como acessar a página?
 
-Você pode acessar a aplicação utilizando um computador, tablet ou celular clicando [nesse](https://karinebrandelli.github.io/) link.
+Você pode acessar a aplicação utilizando um computador, tablet ou celular clicando [nesse](https://karinebrandelli.github.io/pricing-table/) link.
 
 Se você quiser clonar o repositório em sua máquina, não é necessário fazer nenhum tipo de instalação para sua utilização.
 
